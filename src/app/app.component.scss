@@ -10,7 +10,7 @@ padding: 30px;
 .scroller{
 
 overflow-y: scroll;
-scroll-snap-type: y mandatory;
+scroll-snap-type: y proximity;
 }
 .scroller, section{
 scroll-snap-align: start;
